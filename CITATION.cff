@@ -1,0 +1,36 @@
+cff-version: 1.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Haitani"
+    given-names: "Kaworu"
+type: software
+title: "Nq Axiom for Theory of Everything: Theoretical Foundation"
+version: 1.0.0
+date-released: 2025-09-14
+url: "https://github.com/KaworuHaitani/nq-axiom-theoretical-foundation"
+repository-code: "https://github.com/KaworuHaitani/nq-axiom-theoretical-foundation"
+abstract: "A comprehensive theoretical foundation extending the Nq axiom Var(Ô) = ℏω(1+C)/N from static quantum 
+systems to dynamic cosmological theory. This framework addresses major unsolved problems in modern cosmology including dark matter properties, dark energy dynamics, primordial inflation mechanisms, and the Hubble tension through unified variance-correlation principles. The theory provides novel solutions to cosmological puzzles by connecting 
+quantum fluctuations to cosmic-scale phenomena through scale and time-dependent correlation parameters, offering 
+testable predictions for current and future cosmological observations including CMB measurements, large-scale structure 
+surveys, and gravitational wave detection."
+keywords:
+  - "nq axiom"
+  - "cosmological theory"
+  - "dynamic extension"
+  - "correlation parameter"
+  - "quantum fluctuations"
+  - "primordial inflation"
+  - "dark matter"
+  - "dark energy"
+  - "hubble tension"
+  - "cosmic microwave background"
+  - "large scale structure"
+  - "quantum cosmology"
+  - "variance evolution"
+  - "cosmological correlations"
+  - "theoretical foundation"
+references:
+  - type: website
+    url: "https://github.com/KaworuHaitani/nq-axiom-theoretical-foundation"
+    title: "Nq Axiom for Theory of Everything: Theoretical Foundation"
